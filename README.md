@@ -13,9 +13,6 @@ Flutter application that allows users to visualize their expenses using pie and 
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
@@ -35,6 +32,9 @@ Flutter application that allows users to visualize their expenses using pie and 
 
 - **Seeder for Initial Data:** Uses Isar as a seeder to populate the initial data for expense management, providing a realistic starting point for users.
 
+- **Video Demonstration:** Watch a video demonstration of Expense Tracker in action:
+  <iframe src="https://drive.google.com/file/d/1xk5oiOtv2DevBdWbz4_Rb7zViNTptjtt/preview" width="640" height="480"></iframe>
+
 ## Getting Started
 
 Follow these steps to get started with Expense Tracker:
@@ -50,7 +50,7 @@ Follow these steps to get started with Expense Tracker:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/akandil98/flutter_task.git
 cd your-project/
 flutter pub get
 flutter run
