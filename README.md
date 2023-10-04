@@ -33,7 +33,7 @@ Flutter application that allows users to visualize their expenses using pie and 
 - **Seeder for Initial Data:** Uses Isar as a seeder to populate the initial data for expense management, providing a realistic starting point for users.
 
 - **Video Demonstration:** Watch a video demonstration of Expense Tracker in action:
-  <iframe src="https://drive.google.com/file/d/1xk5oiOtv2DevBdWbz4_Rb7zViNTptjtt/preview" width="640" height="480"></iframe>
+  [![Video Thumbnail](https://drive.google.com/file/d/1N1O-DbSYQOritYboV_QP5UKrEwIbjRKT/view?usp=sharing)](https://drive.google.com/file/d/1N1O-DbSYQOritYboV_QP5UKrEwIbjRKT/view?usp=sharing)
 
 ## Getting Started
 
